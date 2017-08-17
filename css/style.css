@@ -8,6 +8,9 @@ section p {
 	color: #F5B7B1;
 }
 section h1 {
+	/* <length> values */
+shape-margin: 10px;
+shape-margin: 20mm;
 	font: 32px 'Open Sans';
 	font-weight: bold;
 }
